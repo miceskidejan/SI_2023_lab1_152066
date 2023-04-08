@@ -1,0 +1,25 @@
+4.git init - go inicijalizirame nashiot lokalen repositorium
+5.git remote add origin https://github.com/miceskidejan/SI_2023_lab1_152066.git go povrzuvame so remote repoto
+6.git add -> git commit -m "Initial commit" - go dodavame prviot commit
+7.git add -> git commit -m "Add java class" - go dodavame vtoriot commit
+8.git push origin master - gi sinhorizirame site lokalni promeni so remote repoto
+9.git branch bug1 -> git branch bug2 -> git branch bug3 - gi kreirame branchovite
+10.git checkout bug1 
+11.po napravenite izmeni se povikuva git commit -a -m "Fix wrong loop for reading"
+12.git checkout bug2
+13.git commit -a -m "Fix wrong condition in filterOddNumbers"
+14.git checkout bug3
+15.git commit -a -m "Fix method sumEvenNumbers"
+16.git push origin bug3 -> git checkout bug2 -> git push origin bug2 ->.. isto i za bug1
+17.git checkout master
+18.git merge bug1
+19.git push origin master -> git push bug1 -> git push bug2 -> ....
+20.git merge bug2
+21.git push origin master -> git push bug1 -> git push bug2 -> ....
+22.git checkout bug3 - se prefrlame na bug3 grankata
+23.git rebase master - pravime rebase od master, gi zemame site promeni od master na bug3
+24.git checkout master - se vrakjame na master
+25.git merge bug3 - ja margame bug3 so master
+26.git push origin master -> git push --force origin bug3
+27.git log --since='50 minutes ago' > logs.txt - gi smestuvame logovite vo logs,.txt
+git commit -a -m "Final commit" gi stavame i ovie dva file-vi na remote repoto

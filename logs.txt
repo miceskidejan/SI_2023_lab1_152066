@@ -1,0 +1,36 @@
+commit 2f641e559e2100f6ff702e18b179de16e379b8d9
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:29:55 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b34ca9fbac24e49c59e52d22f0eb07301a176467
+Merge: 8bece74 e39a96c
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:36:24 2023 +0200
+
+    Merge branch 'bug2'
+
+commit e39a96c7ad249926de56de3667725b7247ea8d48
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:28:58 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 8bece7494e2a1d56d84ee016be5dcfd20b4e9842
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:27:39 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 82c46fc9adf4a4b549d6004723aaceb769b6a88f
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:24:24 2023 +0200
+
+    Add java class
+
+commit af094cfe0074e2a747bc6a328da968923214b39c
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sat Apr 8 23:23:31 2023 +0200
+
+    Initial commit
